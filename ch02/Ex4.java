@@ -10,7 +10,7 @@ public class Ex4 {
 		System.out.println(a2);
 		System.out.println(a3);
 		
-		char b1 = '가';
+		char b1 = 'B';
 		char b2 = 44032;
 		char b3 = '\uac00';
 		System.out.println(b1);
